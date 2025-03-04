@@ -5,6 +5,10 @@ Ai-moji Challenge is an AI-powered game that puts your drawing skills to the tes
 - it has also the ability to extend the dataset with any new emoji or drawining.
 
 ## Demo
+https://github.com/user-attachments/assets/ffc3ef88-3a6a-4c3b-871e-01bbdc6ddafe
+
+![image](https://github.com/user-attachments/assets/b6fd0ddc-f196-4d73-b1e6-4a8e0d5e2b85)
+
 
 ## Installation
 

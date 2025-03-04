@@ -3,6 +3,8 @@
 Ai-moji Challenge is an AI-powered game that puts your drawing skills to the test. In this game, players are challenged to draw a randomly selected emoji, and an AI model scores the drawing based on its resemblance to the target emoji.
 
 - it has also the ability to extend the dataset with any new emoji or drawining.
+- uses simple logistic regression model
+- alot of augmentations are added on the base dataset
 
 ## Demo
 https://github.com/user-attachments/assets/ffc3ef88-3a6a-4c3b-871e-01bbdc6ddafe

@@ -11,6 +11,8 @@ https://github.com/user-attachments/assets/ffc3ef88-3a6a-4c3b-871e-01bbdc6ddafe
 
 ![image](https://github.com/user-attachments/assets/b6fd0ddc-f196-4d73-b1e6-4a8e0d5e2b85)
 
+[Ai-moji presentation.pdf](https://github.com/user-attachments/files/19069696/Ai-moji.presentation.pdf)
+
 
 ## Installation
 
